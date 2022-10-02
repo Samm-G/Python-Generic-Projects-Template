@@ -3,9 +3,10 @@ notebook
 ensure
 # py-youtube
 
-# dev requirements
+# dev requirements:
 pytest
 tox
 black
 flake8
 mypy
+-e . # Install Local Package
