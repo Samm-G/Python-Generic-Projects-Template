@@ -12,7 +12,11 @@ bash init_setup.py -v 3.7.12
 
 Test your project:
 ```bash
+# Run tests
 tox
+
+# Run with recreation of all envs again, (If requirements.txt changes)
+tox --recreate
 ```
 
 TODO: Steps to configure for my project:

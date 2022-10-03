@@ -1,4 +1,6 @@
 ipywidgets
 notebook
 ensure
+pyyaml
+types-PyYAML
 # py-youtube
