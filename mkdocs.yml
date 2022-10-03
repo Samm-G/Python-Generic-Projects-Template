@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: Python-Generic-Project
 # defeine TOC or order of website-
 nav:
   - Home: index.md
@@ -10,8 +10,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: Samm-G/REPO_NAME
-repo_url: https://github.com/Samm-G/REPO_NAME
+repo_name: Samm-G/Python-Generic-Project-Template
+repo_url: https://github.com/Samm-G/Python-Generic-Projects-Template
 
 # Configuration
 theme:
