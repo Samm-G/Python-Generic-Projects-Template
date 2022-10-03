@@ -10,7 +10,12 @@ Create a Conda Env to start development:
 bash init_setup.py -v 3.7.12
 ```
 
-Test your project:
+## Test your project:
+Pytest:
+```bash
+pytest -v
+```
+Tox:
 ```bash
 # Run tests
 tox
@@ -24,7 +29,8 @@ See Docs for you project:
 mkdocs serve
 ```
 
-TODO: Steps to configure for my project:
+## TODO: Steps to configure for my project:
+
 1) Include:
    1) Create Separate Project Package? (setuptools package)
    2) Need Conda Env? (init_bash.sh)

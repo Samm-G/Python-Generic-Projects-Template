@@ -1,7 +1,7 @@
-ipywidgets
-notebook
-ensure
-pyyaml
-types-PyYAML
-mkdocs-material
+ipywidgets==8.0.2
+notebook==6.4.12
+ensure==1.0.2
+pyyaml==0.1
+types-PyYAML==6.0.12
+mkdocs-material==8.5.6
 # py-youtube
