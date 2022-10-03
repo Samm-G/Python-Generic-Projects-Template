@@ -12,6 +12,5 @@ def do_work_2(arg1: int, arg2: int) -> dict:
         pass
     except Exception as e:
         raise GenericException(str(e))
-
     logger.info(f"Ran do_work_2 with {arg1}, {arg2}")
     return {}

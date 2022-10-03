@@ -19,6 +19,11 @@ tox
 tox --recreate
 ```
 
+See Docs for you project:
+```bash
+mkdocs serve
+```
+
 TODO: Steps to configure for my project:
 1) Include:
    1) Create Separate Project Package? (setuptools package)
@@ -37,7 +42,10 @@ TODO: Steps to configure for my project:
       2) DL generic?
       3) ML generic?
       4) etc..
-   
+   8) Need Docs?
+      1) MKDocs?
+      2) Sphinx?
+      3) Need to include API references?
    
 2) Different Workflows:
    1) Create Env (init_bash.sh)

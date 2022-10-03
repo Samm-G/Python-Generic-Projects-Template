@@ -3,6 +3,7 @@ notebook
 ensure
 pyyaml
 types-PyYAML
+mkdocs-material
 # py-youtube
 
 # dev requirements:
