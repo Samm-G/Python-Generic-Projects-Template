@@ -26,7 +26,9 @@ TODO: Steps to configure for my project:
          2) Github Tests?
       2) Pytests? (pytest -v)
    5) DVC required?
-   6) Requirements templates to generate:
+      1) Research Notebook to Stages Decomposition functionality?
+   6) Logger required?
+   7) Requirements templates to generate:
       1) Separate Dev and Prod Requirements.txt ? (requirements_dev.txt and requirements.txt)
       2) DL generic?
       3) ML generic?
@@ -38,6 +40,13 @@ TODO: Steps to configure for my project:
    2) DVC Repro
    3) Run tests (tox)
 
+
+3) Later:
+   1) Integrate these into an Aasare Template.
+   2) Fork this into a .aasr template:
+      1) This templater will contain 
+         1) aasare.py (command: aasare.py unpack)
+         2) template.aasr
 
 Thanks to:
 - Sunny Bhaveen Chandra: <https://github.com/c17hawke>
