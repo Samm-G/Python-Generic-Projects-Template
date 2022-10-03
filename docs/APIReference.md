@@ -21,6 +21,7 @@
 | :-----: | :---: | :-----------------: |
 |   dic   | dict  | An empty dictionary |
 
+
 ## Python-Generic Code of do_work2()
 
 ??? note "example"
